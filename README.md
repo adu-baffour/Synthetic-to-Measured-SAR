@@ -56,7 +56,8 @@ If you find this repository helpful, please cite our paper:
 @article{adu2025synthetic,
   title={Towards Fully Synthetic Training: Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition},
   author={Adu-Baffour, Isaac Osei Agyemang, Isaac Adjei-Mensah, Raphael Elimeli Nuhoho},
-  journal={arXiv preprint arXiv:xxxx.xxxx},
-  year={2025}
+  journal={SSRN},
+  year={2025},
+  url={https://ssrn.com/abstract=5098158 or http://dx.doi.org/10.2139/ssrn.5098158}
 }
 ```
