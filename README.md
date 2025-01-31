@@ -43,3 +43,6 @@ If you find this repository helpful, please cite our paper:
   url={https://ssrn.com/abstract=5098158 or http://dx.doi.org/10.2139/ssrn.5098158}
 }
 ```
+---
+### License
+This project is licensed under the MIT License.
