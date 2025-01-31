@@ -43,3 +43,8 @@ SYNTHETIC-TO-MEASURED_ATR/
 ├── playground.ipynb         # Notebook for experimentation and visualization
 ├── trainer.py               # Model training and evaluation scripts
 ├── util.py                  # Utility functions
+
+### Visualizations
+Use the playground.ipynb notebook to generate qualitative analyses:
+- Augmentated images
+- Class activation maps
