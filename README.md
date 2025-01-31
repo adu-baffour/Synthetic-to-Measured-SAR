@@ -4,28 +4,12 @@
 
 ## Abstract
 
-The limited availability of measured Synthetic Aperture Radar (SAR) images challenges robust Automatic Target Recognition (ATR) system development due to high costs and time requirements. Synthetic SAR images offer an alternative, but discrepancies between synthetic and measured data impede real-world generalization. 
-
-This project explores data augmentation techniques to train effective SAR-ATR models using only synthetic data, achieving high performance on measured SAR imagery. We introduce image augmentation methods that simulate key radar signal components:  
-- **Target Variation**: Color jitter  
-- **System Characteristics**: Gaussian noise  
-- **Environmental Effects**: Random erasing  
-
-Our experiments showed that combining Gaussian noise and random erasing with the ConvNeXt-base model achieved a promising **92.01% accuracy** on measured SAR data while training exclusively on synthetic data. Qualitative analyses further demonstrated improved class separation and feature learning, emphasizing the potential of augmentation strategies to bridge the synthetic-to-measured domain gap.
-
-The repository includes model checkpoints and code for reproducing results.  
-
----
-
-## Features
-- Data augmentation strategies for SAR domain adaptation
-- Benchmark results with multiple deep learning architectures
-- Tools for qualitative analysis: confusion matrices, t-SNE visualizations, and class activation maps
-- Fully reproducible training pipeline
+The limited availability of measured Synthetic Aperture Radar (SAR) images challenges robust Automatic Target Recognition (ATR) system development due to high costs and time requirements. Synthetic SAR images offer an alternative, but discrepancies between synthetic and measured data impede real-world generalization. This paper presents data augmentation techniques to train effective SAR-ATR models using only synthetic data, achieving high performance on measured SAR imagery. We introduce image augmentation methods that simulate key radar signal components: target variation via color jitter, system characteristics through Gaussian noise, and environmental effects with random erasing. We evaluated these techniques individually and in combination across various deep learning architectures. Our experiments showed that applying Gaussian noise and random erasing with the ConvNeXt-base model achieved a promising accuracy of 92.01% on measured SAR data while training exclusively on synthetic data. Qualitative analyses using confusion matrices, t-SNE visualizations, and class activation maps further show improved class separation and feature learning, especially for challenging targets. These findings highlight the potential of effective augmentation strategies to bridge the synthetic-to-measured domain gap, offering a scalable solution for SAR-ATR systems where measured data are limited or unavailable. The model checkpoints and code are available at https://github.com/adu-baffour/Synthetic-to-Measured-SAR/.
 
 ---
 
 ## Getting Started
+The repository includes code for reproducing results.  
 
 ### Prerequisites
 - Python 3.8+
