@@ -46,6 +46,17 @@ SYNTHETIC-TO-MEASURED_ATR/
 ```
 ---
 ### Visualizations
-Use the playground.ipynb notebook to generate qualitative analyses:
+Use the `playground.ipynb` notebook to generate qualitative analyses:
 - Augmentated images
 - Class activation maps
+---
+### Citation
+If you find this repository helpful, please cite our paper:
+```plaintext
+@article{adu2025synthetic,
+  title={Towards Fully Synthetic Training: Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition},
+  author={Adu-Baffour, Isaac Osei Agyemang, Isaac Adjei-Mensah, Raphael Elimeli Nuhoho},
+  journal={arXiv preprint arXiv:xxxx.xxxx},
+  year={2025}
+}
+```
