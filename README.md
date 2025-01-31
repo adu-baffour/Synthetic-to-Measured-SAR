@@ -16,7 +16,7 @@ The repository includes code for reproducing results.
 ### Repository Structure
 ```plaintext
 SYNTHETIC-TO-MEASURED_ATR/
-├── dataset/                 # Dataset preprocessing scripts
+├── dataset/                 # Dataset image files
 ├── results/                 # Folder for saving experimental results
 ├── __init__.py              # Package initialization
 ├── dataset.py               # Dataset loaders and transformations
