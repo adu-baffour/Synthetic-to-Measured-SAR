@@ -33,11 +33,11 @@ SYNTHETIC-TO-MEASURED_ATR/
 ### Visualizations
 Use the `playground.ipynb` notebook to generate qualitative analyses:
 - Augmentated images
-  ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/[branch]/augmentation.jpg?raw=true)
+  ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/augmentation.jpg?raw=true)
 - t-nse
 ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/tsne.png?raw=true)
 - Class activation maps
-  ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/[branch]/heatmap.jpg?raw=true)
+  ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/heatmap.jpg?raw=true)
 ---
 ### Citation
 If you find this repository helpful, please cite our paper:
