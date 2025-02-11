@@ -6,7 +6,7 @@ The limited availability of measured Synthetic Aperture Radar (SAR) images chall
 
 ---
 
- ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/cm.png)
+ ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/cm.png?raw=true)
 
 
 ## Getting Started
