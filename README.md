@@ -25,7 +25,7 @@ SYNTHETIC-TO-MEASURED_ATR/
 ├── dataset.py               # Dataset loaders and transformations
 ├── main.py                  # Main script to run experiments
 ├── model.py                 # Deep learning model definitions
-├── playground.ipynb         # Notebook for experimentation and visualization
+├── playground.ipynb         # Notebook for visualization
 ├── trainer.py               # Model training and evaluation scripts
 ├── util.py                  # Utility functions
 ```
