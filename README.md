@@ -44,11 +44,14 @@ Use the `playground.ipynb` notebook to generate qualitative analyses:
 ### Citation
 If you find this repository helpful, please cite our paper:
 ```plaintext
-@article{adu2025synthetic,
-  title={Towards Fully Synthetic Training: Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition},
-  author={Adu-Baffour, Isaac Osei Agyemang, Isaac Adjei-Mensah, Raphael Elimeli Nuhoho},
-  journal={SSRN},
+@INPROCEEDINGS{11105313,
+  author={Baffour, Adu Asare and Osei Agyemang, Isaac and Adjei-Mensah, Isaac and Nuhoho, Raphael Elimeli},
+  booktitle={2025 IEEE World AI IoT Congress (AIIoT)}, 
+  title={Towards Fully Synthetic Training: Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition}, 
   year={2025},
-  url={https://ssrn.com/abstract=5098158 or http://dx.doi.org/10.2139/ssrn.5098158}
-}
+  volume={},
+  number={},
+  pages={0008-0017},
+  keywords={Training;Accuracy;Target recognition;Gaussian noise;Radar imaging;Data augmentation;Radar polarimetry;Data models;Time measurement;Synthetic aperture radar;Synthetic Aperture Radar;Automatic Target Recognition;Data Augmentation;Deep Learning},
+  doi={10.1109/AIIoT65859.2025.11105313}}
 ```
