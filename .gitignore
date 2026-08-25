@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment outputs — regenerable, often huge
+results/
+runs/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Data — version with DVC, not Git
+data/
+*.h5
+*.npy
+*.npz
+
+# MLflow
+mlruns/
+
+# Environment / secrets — NEVER commit these
+.env
+*.pem
+credentials.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
