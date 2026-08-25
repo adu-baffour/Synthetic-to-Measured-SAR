@@ -1,4 +1,4 @@
-# Towards Fully Synthetic Training: Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition
+# Exploring Data Augmentations for Synthetic-to-Measured SAR in Automatic Target Recognition
 
 ## Abstract
 
