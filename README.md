@@ -9,7 +9,7 @@ The limited availability of measured Synthetic Aperture Radar (SAR) images chall
  ![alt text](https://github.com/adu-baffour/Synthetic-to-Measured-SAR/blob/main/imgs/architecture.png?raw=true)
 
 
-## Getting Started
+## Getting Started - Reproducing the paper results
 The repository includes code for reproducing results.  
 
 ### Prerequisites
